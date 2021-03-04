@@ -12,6 +12,7 @@
 
 ## Useful Documents
   I come across these documents usually reading and/or researching. These ones are the ones that I find particularly useful or interesting.
+  ### [ML Project Checklist](https://github.com/emreozan/Useful-Documents/blob/main/ML_Project_Checklist.md)
 
 ## Reading List
   I'm an avid reader in multiple topics. Here I maintain a list of my readings focusing on Machine Learning and Artificial Intelligence. These documents can be books, articles or reports. You can also see my remarks, opinions or notes regarding my readings.
