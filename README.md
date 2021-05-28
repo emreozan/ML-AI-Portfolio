@@ -19,7 +19,7 @@
 ## Reading List
   I'm an avid reader in multiple topics. Here I maintain a list of my readings focusing on Machine Learning and Artificial Intelligence. These documents can be books, articles or reports. You can also see my remarks, opinions or notes regarding my readings.
   ###Books
-  - [The Master Algorithm by Pedro Domingos](https://github.com/emreozan/Reading_List/blob/main/THE%20MASTER%20ALGORITHM%20by%20PEDRO%20DOMINGOS.pdf
+  - [The Master Algorithm by Pedro Domingos](https://github.com/emreozan/Reading_List/blob/main/THE%20MASTER%20ALGORITHM%20by%20PEDRO%20DOMINGOS.pdf)
   - [Superintelligence by Nick Bostrom](https://github.com/emreozan/Reading_List/blob/main/SUPERINTELLIGENCE%20by%20NICK%20BOSTROM.pdf)
   - [The Quest for Artificial Intelligence by Nils J. Nilsson](https://github.com/emreozan/Reading_List/blob/main/THE%20QUEST%20FOR%20ARTIFICIAL%20INTELLIGENCE.pdf)
 
