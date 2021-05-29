@@ -11,6 +11,7 @@
 
 ## MOOC Certificates
   Here, the certificates from the MOOCs I participated can be seen.
+  
   -[Azure AI Fundamentals by Microsoft](https://github.com/emreozan/Certificates/blob/main/AzureAIFund.pdf)
 
 ## Useful Documents
