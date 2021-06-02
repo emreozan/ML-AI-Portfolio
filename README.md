@@ -8,7 +8,8 @@
   These projects are either exercises or some ideas that came to my mind.
   
   [Data Analysis](https://github.com/emreozan/Data_Analysis): Certain functions/scripts to make some tedious tasks easier
-  [MNIST>97%]()
+  
+  [MNIST>97%](https://github.com/emreozan/ExercisesGeron/blob/main/MNIST%3E97_.ipynb) A simple classification exercise using MNIST dataset
 
 ## MOOC Certificates
   Here, the certificates from the MOOCs I participated can be seen.
