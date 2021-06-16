@@ -30,4 +30,4 @@
   - [Artificial Intelligence:A Modern Approach by Russell&Norvig](https://github.com/emreozan/Reading_List/blob/main/ARTIFICIAL%20INTELLIGENCE.pdf)
 
 ### Articles
-
+  - [MASTERING ATARI, GO, CHESS AND SHOGI by PLANNING WITH A LEARNED MODEL](https://github.com/emreozan/Reading_List/blob/main/MASTERING%20ATARI%2C%20GO%2C%20CHESS%20AND%20SHOGI%20by%20PLANNING%20WITH%20A%20LEARNED%20MODEL.pdf)
