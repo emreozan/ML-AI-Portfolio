@@ -31,3 +31,4 @@
 
 ### Articles
   - [MASTERING ATARI, GO, CHESS AND SHOGI by PLANNING WITH A LEARNED MODEL](https://github.com/emreozan/Reading_List/blob/main/MASTERING%20ATARI%2C%20GO%2C%20CHESS%20AND%20SHOGI%20by%20PLANNING%20WITH%20A%20LEARNED%20MODEL.pdf)
+  - [Fundamentals, materials, and machine learning of polymer electrolyte membrane fuel cell technology by Yun Want et al](https://github.com/emreozan/Reading_List/blob/main/Fundamentals%20of%20ML%20on%20PEMFC.pdf)
